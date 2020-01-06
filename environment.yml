@@ -1,0 +1,5 @@
+name: python 3.7
+dependencies:
+  - python=3.7
+  - quantecon
+  - matplotlib
